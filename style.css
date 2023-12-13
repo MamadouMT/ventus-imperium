@@ -1,0 +1,40 @@
+body{
+background-color:mediumpurple;	
+background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceeff793-719e-47c3-bc7e-fcfed593c232/dg5yzj9-c27bc1a1-1e0d-4a1d-9b31-7c18eebf9aab.png/v1/fill/w_1920,h_1280,q_80,strp/fantasy_school_by_designscape1_dg5yzj9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlZWZmNzkzLTcxOWUtNDdjMy1iYzdlLWZjZmVkNTkzYzIzMlwvZGc1eXpqOS1jMjdiYzFhMS0xZTBkLTRhMWQtOWIzMS03YzE4ZWViZjlhYWIucG5nIiwiaGVpZ2h0IjoiPD0xMjgwIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvY2VlZmY3OTMtNzE5ZS00N2MzLWJjN2UtZmNmZWQ1OTNjMjMyXC9kZXNpZ25zY2FwZTEtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.JfhecMM6iy6daMZYYBD5HybtnKbgqlOHmMMRsQHgOuA);
+}
+h1{
+color:lightyellow;	
+}
+
+ {
+
+}
+
+div.header1 {
+background-image: url(https://img.freepik.com/free-photo/eye-mythological-dragon-fire-generative-ai_188544-12557.jpg);
+background-position: left;
+background-size: 199%;
+background-repeat: no-repeat;
+}
+
+div.header2 {
+background-image: url(https://i.pinimg.com/736x/0b/e8/54/0be8543b45326a2cd81a306c817c29bd.jpg);
+background-position: left;
+background-size: 199%;
+background-repeat: no-repeat;
+}
+
+div.header3 {
+background-image: url(https://i1.sndcdn.com/artworks-000648436120-lkl3i4-t500x500.jpg);
+background-position: left;
+background-size: 190%;
+background-repeat: no-repeat;
+}
+
+div.header4{
+background-image: url(https://img.freepik.com/premium-photo/realistic-haunted-forest-creepy-landscape-night-fantasy-halloween-forest-background-digital-art_598586-579.jpg);
+background-position: top;
+background-size: 190%;
+background-repeat: no-repeat;
+}
+
